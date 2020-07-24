@@ -1,0 +1,29 @@
+$main-yellow: #edd538;
+
+.yellow-fa-icon {
+    color: $main-yellow;
+}
+.bg-yellow {
+    background-color: $main-yellow;
+}
+
+
+
+html,body,header {
+    height: 100%;
+}
+#home {
+    height: 100%;
+    background: url(../img/home-banner.png) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#about {
+    height: 100%;
+    background: url(../img/about-banner.png) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}

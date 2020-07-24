@@ -1,0 +1,22 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="93" height="30" viewBox="0 0 93 30">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 22.501px;
+        fill: #fff;
+        font-family: Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        fill: #fd0;
+      }
+
+      .cls-3 {
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="Exploore" class="cls-1" transform="translate(0.33 18.021) scale(1.063)">Expl<tspan class="cls-2">oo</tspan>re</text>
+  <text id="creative_tagline_here" data-name="creative tagline here" class="cls-3" transform="translate(0.33 30.163) scale(0.279)">creative tagline here</text>
+</svg>
