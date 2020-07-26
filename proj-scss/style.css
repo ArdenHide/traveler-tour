@@ -2,25 +2,23 @@
   color: #edd538;
 }
 
+.light-blue-fa-icon {
+  color: #00a4ff;
+}
+
 .bg-yellow {
   background-color: #edd538;
 }
 
-html, body, header {
+html, body {
   height: 100%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #home {
-  height: 100%;
+  padding-top: 50px;
+  min-height: 100%;
   background: url(../img/home-banner.png) no-repeat center center;
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-}
-
-#about {
-  height: 100%;
-  background: url(../img/about-banner.png) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
